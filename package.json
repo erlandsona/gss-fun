@@ -1,0 +1,22 @@
+{
+  "name": "gss-fun",
+  "version": "0.0.1",
+  "description": "Messing around with the new auto-layout language Grid Style Sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erlandsona/gss-fun.git"
+  },
+  "author": "Austin Erlandson <austin@erlandson.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erlandsona/gss-fun/issues"
+  },
+  "homepage": "https://github.com/erlandsona/gss-fun",
+  "dependencies": {
+    "gss-engine": "^2.0.0"
+  }
+}
